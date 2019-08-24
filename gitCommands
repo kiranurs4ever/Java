@@ -1,0 +1,19 @@
+114  git init
+  115  ls
+  116  git status
+  117  git add localVariables/
+  118  git status
+  119  git commit -m "local variable codes"
+  120  git config --global user.email "kiranurs4ever@gmail.com"
+  121  git config --global user.name "kiranurs4ever"
+  122  git commit -m "local variable codes"
+  123  git checkout -b javaCodes
+  124  git remote add origin https://github.com/kiranurs4ever/Java.git
+  125  java push origin javaCodes
+  126  git remote add origin https://github.com/kiranurs4ever/Java.git
+  127  git push origin javaCodes
+  128  git pull origin javaCodes
+  129  git push -f origin javaCodes
+  130  ls
+  131  git pull origin javaCodes
+
